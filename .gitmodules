@@ -1,0 +1,6 @@
+[submodule "rawg-ios"]
+	path = rawg-ios
+	url = https://github.com/kartikasw/rawg-ios.git
+[submodule "spotify-clone-ios"]
+	path = spotify-clone-ios
+	url = https://github.com/kartikasw/spotify-clone-ios.git
